@@ -1,0 +1,11 @@
+C:\Develop\PremiumCalculator\bin\Debug\netcoreapp3.1\PremiumCalculator.exe
+C:\Develop\PremiumCalculator\bin\Debug\netcoreapp3.1\PremiumCalculator.deps.json
+C:\Develop\PremiumCalculator\bin\Debug\netcoreapp3.1\PremiumCalculator.runtimeconfig.json
+C:\Develop\PremiumCalculator\bin\Debug\netcoreapp3.1\PremiumCalculator.runtimeconfig.dev.json
+C:\Develop\PremiumCalculator\bin\Debug\netcoreapp3.1\PremiumCalculator.dll
+C:\Develop\PremiumCalculator\bin\Debug\netcoreapp3.1\PremiumCalculator.pdb
+C:\Develop\PremiumCalculator\obj\Debug\netcoreapp3.1\PremiumCalculator.AssemblyInfoInputs.cache
+C:\Develop\PremiumCalculator\obj\Debug\netcoreapp3.1\PremiumCalculator.AssemblyInfo.cs
+C:\Develop\PremiumCalculator\obj\Debug\netcoreapp3.1\PremiumCalculator.dll
+C:\Develop\PremiumCalculator\obj\Debug\netcoreapp3.1\PremiumCalculator.pdb
+C:\Develop\PremiumCalculator\obj\Debug\netcoreapp3.1\PremiumCalculator.csprojAssemblyReference.cache
